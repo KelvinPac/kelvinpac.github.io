@@ -1,4 +1,4 @@
-MichaelNgugiN.github.com
+Kelvin Murithi
 ======
 
 ZAIDI MARVELS
@@ -6,6 +6,6 @@ ZAIDI MARVELS
 LICENSE
 ------------
 
-Copyright 2012 ZaidiMarvels, Inc.
+Copyright 2018 ZaidiMarvels, Inc.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
